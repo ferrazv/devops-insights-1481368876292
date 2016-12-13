@@ -15,7 +15,7 @@
         "Target": {
             "Org": "ferrazv@br.ibm.com",
             "Space": "dev",
-            "Url": "https://api.ng.bluemix.net"
+            "Url": "https://api.eu-gb.bluemix.net"
         },
         "Timeout": 60
     },
