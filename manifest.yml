@@ -3,9 +3,12 @@ applications:
   host: demodra
   name: demodra
   command: node app.js
+  domain: eu-gb.bluemix.net
   path: .
   instances: 1
   memory: 128M
   env:
     DIFF_ENV: testing
-    Ana: Rafael
+    Ana: princess
+    Rafael: terrible
+    
